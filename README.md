@@ -116,7 +116,7 @@ The most common skills across postings are:
 Jobs with higher salaries (around $165k) mostly require cloud (AWS, Azure, Snowflake), Big Data (Spark, Hadoop), and advanced database skills (Oracle, PostgreSQL, MongoDB).
 
 Analyst roles with $111k–120k focus more on Excel, Power BI, Tableau, and reporting tools.
-![Skills Required](assets\query_2.png)
+![Skills Required](assets/query_2.png)
 ### 3. What are the most in-demand skills for data analyst
 ``` SQL
 SELECT 
