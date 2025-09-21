@@ -65,7 +65,7 @@ LIMIT 20
 - Average Salary: $128,566 per year
 - Max Salary: $177,283 (ServiceNow – Staff Applied Research Engineer, Hyderabad)
 - Min Salary: $111,175 (multiple companies & roles)
-![Top Paying Roles](assets\image.png)
+![Top Paying Roles](assets/image.png)
 
 ### 2. What are the skills required for these top paying roles
 ```SQL
